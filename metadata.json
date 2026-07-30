@@ -1,0 +1,6 @@
+{
+  "name": "豆包AI魔法修图",
+  "description": "专为手机打造的AI魔法修图PWA，支持相册上传与相机拍照、精准涂抹消除物品或修改文字、3:4保持原画幅尺寸比例，一键连接iOS快捷指令保存至系统相册，接入豆包生图大模型。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
